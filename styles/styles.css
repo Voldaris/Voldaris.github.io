@@ -1,0 +1,37 @@
+/*
+# for ID Selector
+. for class Selector
+element[attribute] for attribute Selector
+: for pseudo-class selector like a:hover
+*/
+
+html {
+  font-size: 10px;
+  font-family: 'Kavivanar', cursive;
+  background-color: #EEEEEE;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 8px;
+}
+
+p {
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size:3em;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  font-size:2em;
+}
+
+img {
+  max-width: 800 px;
+  display: block;
+  margin: 0 auto;
+}
